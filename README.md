@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Navin Prasad
-- Looking for an opportunity to get a challenging and exciting role where I can apply my analytical and technical skills to generate business insights and make
-data driven decisions to benefit the progress of the organization and myself
-- MBA graduate with PGP - Data Science and Engineering from Great Lakes Institute of Management having 1 year of experience as Deputy Manager in banking domain
+- Data Analyst
+- MBA graduate with PGP - Data Science and Engineering from Great Lakes Institute of Management
 - LinkedIn: www.linkedin.com/in/navinprasad005
 - Email id: navinprasad005@gmail.com
 <!---
